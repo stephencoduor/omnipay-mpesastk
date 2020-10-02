@@ -1,2 +1,2 @@
 # omnipay-mpesa
- omnipay-mpesa
+ omnipay-mpesaSTK
