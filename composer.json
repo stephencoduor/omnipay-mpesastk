@@ -15,7 +15,7 @@
             "email": "stephencoduor@gmail.com",
             "homepage": "http://itbrains.co.ke"
         }
-    ], 
+    ],
     "autoload": {
         "psr-4": {
             "Omnipay\\Mpesa\\": "src"
@@ -33,6 +33,6 @@
             "dev-master": "v1.5"
         }
     }
-    ,"minimum-stability": "-dev",
+    ,"minimum-stability": "dev",
      "prefer-stable": true
 }
