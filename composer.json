@@ -1,7 +1,7 @@
 {
-    "name": "stephencoduor/omnipay-mpesa",
+    "name": "stephencoduor/omnipay-mpesastk",
     "type": "library",
-    "description": "Mpesa omnipay gateway",
+    "description": "MpesaStk omnipay gateway",
     "keywords": [
         "omnipay",
         "mpesa",
@@ -23,7 +23,7 @@
     },
    "require": {
         "php": "^5.6|^7.1",
-        "omnipay/common": "v3.0.2"
+        "omnipay/common": "^v3.0.0"
     },
     "require-dev": {
         "omnipay/tests": "^3"
